@@ -1,0 +1,14 @@
+type: code
+custom_name: A pyramid!
+files:
+- name: main.py
+  visible: true
+  text: print(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6892#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6892#comment">JetBrains
+    Academy</a></html>
+  time: Sun, 29 Nov 2020 01:38:27 UTC
+record: -1
